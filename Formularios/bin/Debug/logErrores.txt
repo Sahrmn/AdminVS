@@ -1,0 +1,101 @@
+23/08/2018 17:14:01 La cadena de entrada no tiene el formato correcto.
+23/08/2018 17:19:12 La cadena de entrada no tiene el formato correcto.
+8/23/2018 5:26:03 PM La cadena de entrada no tiene el formato correcto.
+8/23/2018 5:30:19 PM La cadena de entrada no tiene el formato correcto.
+8/23/2018 5:31:21 PM La cadena de entrada no tiene el formato correcto.
+23/08/2018 17:32:41 La cadena de entrada no tiene el formato correcto.
+23/08/2018 17:33:35 La cadena de entrada no tiene el formato correcto.
+23/08/2018 17:33:38 La cadena de entrada no tiene el formato correcto.
+23/08/2018 17:34:21 La cadena de entrada no tiene el formato correcto.
+23/08/2018 17:35:16 La cadena de entrada no tiene el formato correcto.
+23/08/2018 17:35:18 La cadena de entrada no tiene el formato correcto.
+23/08/2018 17:35:20 La cadena de entrada no tiene el formato correcto.
+23/08/2018 17:35:22 La cadena de entrada no tiene el formato correcto.
+23/08/2018 17:35:24 La cadena de entrada no tiene el formato correcto.
+23/08/2018 17:40:10 La cadena de entrada no tiene el formato correcto.
+23/08/2018 19:26:33 La celda actual no se puede establecer en una celda invisible.
+23/08/2018 19:27:34 La celda actual no se puede establecer en una celda invisible.
+23/08/2018 19:28:09 La celda actual no se puede establecer en una celda invisible.
+23/08/2018 19:37:52 La cadena de entrada no tiene el formato correcto.
+24/08/2018 14:40:06 Hay menos columnas en la instrucción INSERT que valores en la cláusula VALUES. El número de valores de VALUES debe coincidir con el de columnas de INSERT.
+24/08/2018 14:40:06 Hay menos columnas en la instrucción INSERT que valores en la cláusula VALUES. El número de valores de VALUES debe coincidir con el de columnas de INSERT.
+24/08/2018 14:40:06 Hay menos columnas en la instrucción INSERT que valores en la cláusula VALUES. El número de valores de VALUES debe coincidir con el de columnas de INSERT.
+24/08/2018 14:42:15 Hay menos columnas en la instrucción INSERT que valores en la cláusula VALUES. El número de valores de VALUES debe coincidir con el de columnas de INSERT.
+24/08/2018 14:42:15 Hay menos columnas en la instrucción INSERT que valores en la cláusula VALUES. El número de valores de VALUES debe coincidir con el de columnas de INSERT.
+24/08/2018 14:42:15 Hay menos columnas en la instrucción INSERT que valores en la cláusula VALUES. El número de valores de VALUES debe coincidir con el de columnas de INSERT.
+28/08/2018 15:53:04 La cadena de entrada no tiene el formato correcto.
+28/08/2018 15:55:50 La conversión especificada no es válida.
+30/08/2018 15:16:44 Sintaxis incorrecta cerca de ')'.
+30/08/2018 15:16:46 Sintaxis incorrecta cerca de ')'.
+30/08/2018 17:46:51 La conversión especificada no es válida.
+30/08/2018 17:46:57 La conversión especificada no es válida.
+30/08/2018 17:58:29
+La conversión especificada no es válida.
+C:\Users\Samantha\source\repos\VentasFacturacion\Formularios\FormCaja.cs
+FormCaja
+51
+25342185
+
+
+30/08/2018 18:02:10 La conversión especificada no es válida.
+C:\Users\Samantha\source\repos\VentasFacturacion\Formularios\FormCaja.cs
+FormCaja
+Numero de linea: 51
+30/08/2018 18:05:50 La conversión especificada no es válida.
+C:\Users\Samantha\source\repos\VentasFacturacion\Formularios\FormCaja.cs
+Numero de linea: 51
+30/08/2018 18:18:42 La conversión especificada no es válida.
+C:\Users\Samantha\source\repos\VentasFacturacion\Formularios\FormCaja.cs
+Numero de linea: 51
+8/30/2018 11:09:59 PM InvalidArgument=El valor de '6' no es válido para 'SelectedIndex'.
+Nombre del parámetro: SelectedIndex
+C:\Users\Samantha\source\repos\VentasFacturacion\Formularios\FormProducto.cs
+Numero de linea: 35
+31/08/2018 0:33:23 El nombre de columna 'id' no es válido.
+C:\Users\Samantha\source\repos\VentasFacturacion\Entidades\DB.cs
+Numero de linea: 211
+31/08/2018 0:37:05 El nombre de columna 'id' no es válido.
+C:\Users\Samantha\source\repos\VentasFacturacion\Entidades\DB.cs
+Numero de linea: 211
+31/08/2018 0:37:26 El nombre de columna 'id' no es válido.
+C:\Users\Samantha\source\repos\VentasFacturacion\Entidades\DB.cs
+Numero de linea: 211
+31/08/2018 13:00:17 El nombre de columna 'id' no es válido.
+C:\Users\Samantha\source\repos\VentasFacturacion\Entidades\DB.cs
+Numero de linea: 211
+31/08/2018 13:00:43 El nombre de columna 'id' no es válido.
+C:\Users\Samantha\source\repos\VentasFacturacion\Entidades\DB.cs
+Numero de linea: 211
+31/08/2018 13:01:11 El nombre de columna 'id' no es válido.
+C:\Users\Samantha\source\repos\VentasFacturacion\Entidades\DB.cs
+Numero de linea: 211
+31/08/2018 13:02:26 El nombre de columna 'id' no es válido.
+C:\Users\Samantha\source\repos\VentasFacturacion\Entidades\DB.cs
+Numero de linea: 211
+31/08/2018 13:03:05 El nombre de columna 'id' no es válido.
+C:\Users\Samantha\source\repos\VentasFacturacion\Entidades\DB.cs
+Numero de linea: 211
+31/08/2018 13:03:31 El nombre de columna 'id' no es válido.
+C:\Users\Samantha\source\repos\VentasFacturacion\Entidades\DB.cs
+Numero de linea: 211
+31/08/2018 13:04:05 El nombre de columna 'id' no es válido.
+C:\Users\Samantha\source\repos\VentasFacturacion\Entidades\DB.cs
+Numero de linea: 211
+31/08/2018 13:20:40 Sintaxis incorrecta cerca de '00'.
+C:\Users\Samantha\source\repos\VentasFacturacion\Entidades\DB.cs
+Numero de linea: 23
+31/08/2018 13:21:11 Sintaxis incorrecta cerca de '00'.
+C:\Users\Samantha\source\repos\VentasFacturacion\Entidades\DB.cs
+Numero de linea: 23
+31/08/2018 13:21:20 Sintaxis incorrecta cerca de '00'.
+C:\Users\Samantha\source\repos\VentasFacturacion\Entidades\DB.cs
+Numero de linea: 23
+31/08/2018 13:21:30 Sintaxis incorrecta cerca de '00'.
+C:\Users\Samantha\source\repos\VentasFacturacion\Entidades\DB.cs
+Numero de linea: 23
+31/08/2018 13:21:42 Sintaxis incorrecta cerca de '00'.
+C:\Users\Samantha\source\repos\VentasFacturacion\Entidades\DB.cs
+Numero de linea: 23
+31/08/2018 13:22:13 Sintaxis incorrecta cerca de '00'.
+C:\Users\Samantha\source\repos\VentasFacturacion\Entidades\DB.cs
+Numero de linea: 23

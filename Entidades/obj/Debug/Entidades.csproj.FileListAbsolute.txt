@@ -1,0 +1,7 @@
+C:\Users\Samantha\source\repos\AdministradorVentasStock\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Samantha\source\repos\AdministradorVentasStock\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Samantha\source\repos\AdministradorVentasStock\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Samantha\source\repos\AdministradorVentasStock\Entidades\bin\Debug\Entidades.dll
+C:\Users\Samantha\source\repos\AdministradorVentasStock\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Samantha\source\repos\AdministradorVentasStock\Entidades\obj\Debug\Entidades.dll
+C:\Users\Samantha\source\repos\AdministradorVentasStock\Entidades\obj\Debug\Entidades.pdb
